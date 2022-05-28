@@ -1,0 +1,29 @@
+{
+  "EmployeePayrollList": [
+    {
+      "id": 1,
+      "_name": "Deep",
+      "_image": "..\\assest\\profile-images\\Ellipse -3.png",
+      "_gender": "male",
+      "_department": [
+        "Hr",
+        "Finance"
+      ],
+      "_salary": "40000",
+      "_note": "test",
+      "_startDate": "1-06-2020"
+    },
+    {
+      "_name": "Ramsing",
+      "_image": "..\\assest\\profile-images\\Ellipse -8.png",
+      "_gender": "male",
+      "_department": [
+        "Hr"
+      ],
+      "_salary": "47700",
+      "_note": "Test",
+      "_startDate": "1-01-2018",
+      "id": 5
+    }
+  ]
+}
